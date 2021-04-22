@@ -1,2 +1,14 @@
 # one-spe
-One Solid-Phase Extraction for all Proteomics Workflows
+**One Solid-Phase Extraction for ~~all~~ most Proteomics Workflows**
+
+Ever since I encountered my first samples where a polymer or detergent, unbeknown to me, was present and had to suffer through column and instrument cleanup I've wanted a simple, unified and robust method of sample cleanup following every Trypsin digestion so that my system would never have to suffer contamination again.  
+
+Various methods abound in the literature for removing detergents which may also work for polymers, some are more effective than others but tended to lack the simplicity and robustness I required.  Almost 8 years ago when I started using sodium deoxycholate (SDC) to improve Trypsin digest workflows my quest for an easy method amenable to scale up in either volume or sample number began.
+
+My goal was to use a solid phase support which would bind Tryptic peptides but not neutral or negatively charged molecules and have good recovery of the applied peptides.  The obvious choice was a cation exchange material.  This support also must not contaminate the sample with leachables and be able to withstand the very high pH of the elution solvent. This last requirement rules out the use of silica based cation exchangers.  
+
+And finally the solvent for eluting the peptides needed to be completely volatile; easily evaporated in a centrifugal vacuum lyophilizer such as a speed-vac.  I prefer not to use a trap column but rather directly inject the sample onto the capillary column for LC/MS/MS.  Therefore, at the end of the workflow the sample must be completely MS compatible.
+
+This required a small tweak to the Trypsin digestion buffer.  Typically TRIS-HCl pH 8 - 8.5 is used as the buffer.  One reason is that since it contains a reactive amine group it should act as a scavenger for amine reactive species that may be generated during the sample workup e.g. during reduction and alkylation steps or if Urea is present.  However, I discovered that even in the presence of 100mM TRIS-HCl if the buffer also contained 8M Urea a small percentage of peptides would contain carbamylated modifications.  That is when I stoped using Urea and now I use SDC as the denaturing agent because Trypsin retains a high percentage of its proteoltic activity even at high concentrations of SDC even up to 10%. See [Lin et. al.](http://dx.doi.org/10.1016/j.ab.2008.03.009) This compatibility is not unexpected since deoxycholate is a bile acid that is present along with Trypsin in the small intestine. See [Wikipedia - Deoxycholate](https://en.wikipedia.org/wiki/Deoxycholic_acid).
+
+The other problem with Tris-HCL is that it is cationic.  So it along with Tryptic peptides will bind to a cation exchanger.  HEPES on the other hand is anionic so will not be retained by a cation exchange support.  And happily there are recent reports of HEPES used with good success for Tryptic digests.  See [Goodman et.al.](http://dx.doi.org/10.1002/pmic.201800236).
