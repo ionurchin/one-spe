@@ -1,4 +1,4 @@
-## Trypsin digestion protocol for One-SPE
+## Example Protocol for One-SPE
 
 #### Buffers:
 * Digest Buffer: 100mM HEPES pH 8.5, 1% sodium deoxycholate (SDC)
