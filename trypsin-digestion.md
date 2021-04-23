@@ -20,11 +20,11 @@
 *The final reaction volume (after adding Trypsin) is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
-3. Add 5ul of Reduction Buffer.
+3. Add 5ul of Reduction Buffer. Vortex to mix.
 4. Incubate at 70C for 10min then cool to RT.
-5. Add 5ul of Alkylation Buffer.
+5. Add 5ul of Alkylation Buffer. Vortex to mix.
 6. Incubate at 70C for 10min then cool to RT.
-7. Add 5ul of Reduction Buffer.
+7. Add 5ul of Reduction Buffer. Vortex to mix.
 8. Incubate at RT for a few minutes to allow the DTT to react with residual CAA.
 
 #### Trypsin digestion:
