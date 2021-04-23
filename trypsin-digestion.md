@@ -17,12 +17,12 @@
 * Calcium causes SDC to precipitate.
 
 #### Reduce and alkylate:
-*The final reaction volume after adding Trypsin is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
+*The final reaction volume (after adding Trypsin) is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
 3. Add 5ul of Reduction Buffer.
 4. Incubate at 70C for 10min then cool to RT.
-5. Add 5ul of 200mM Alkylation Buffer.
+5. Add 5ul of Alkylation Buffer.
 6. Incubate at 70C for 10min then cool to RT.
 7. Add 5ul of Reduction Buffer.
 8. Incubate at RT for a few minutes to allow the DTT to react with residual CAA.
