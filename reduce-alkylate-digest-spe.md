@@ -7,7 +7,7 @@
 * Trypsin Solution (10x): 125ng/ul Methylated Trypsin, 100mM HEPES, pH 8.5, 1% SDC
 * SPE Load Buffer: 90% Acetonitrile, 1.0% Trifluoroacetic Acid
 * SPE Wash Buffer: 10% Acetonitrile, 0.1% Trifluoroacetic Acid
-* SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide
+* SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide (IMPORTANT!  Must be made up fresh)
 
 #### Sample considerations:
 * Components of the sample must not inhibit the enzymatic activity Trypsin.
