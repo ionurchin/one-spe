@@ -17,7 +17,7 @@
 * Calcium causes SDC to precipitate.
 
 #### Reduce and alkylate:
-*The final reaction volume is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
+*The final reaction volume after adding Trypsin is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
 3. Add 5ul of Reduction Buffer.
