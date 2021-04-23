@@ -18,6 +18,7 @@
 
 #### Reduce and alkylate:
 *The final reaction volume (after adding Trypsin) is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
+*If the sample volume is large, make up a stock of 10% SDC and add 1/10th volume to the sample to make it 1% SDC*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
 3. Add 5ul of Reduction Buffer. Vortex to mix.
