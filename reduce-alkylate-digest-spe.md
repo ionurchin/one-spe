@@ -1,6 +1,7 @@
 ## Example Protocol for One-SPE
 
 #### Buffers:
+* 10x SDC: 10% SDC in 100mM HEPES pH 8.5
 * Digest Buffer: 100mM HEPES pH 8.5, 1% sodium deoxycholate (SDC)
 * Reduction Bufer (10x): 100mM dithiothreitol, 100mM HEPES pH 8.5, 1% SDC
 * Alkylation Buffer (10x): 200mM 2-chloroacetamide (CAA), 100mM HEPES pH 8.5, 1% SDC
@@ -18,15 +19,15 @@
 
 #### Reduce and alkylate:
 *The final reaction volume (after adding Trypsin) is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
-*If the sample volume is large, make up a stock of 10% SDC and add 1/10th volume to the sample to make it 1% SDC*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
-3. Add 5ul of Reduction Buffer. Vortex to mix.
-4. Incubate at 70C for 10min then cool to RT.
-5. Add 5ul of Alkylation Buffer. Vortex to mix.
-6. Incubate at 70C for 10min then cool to RT.
-7. Add 5ul of Reduction Buffer. Vortex to mix.
-8. Incubate at RT for a few minutes to allow the DTT to react with residual CAA.
+3. Add 1ul of 10x SDC.
+4. Add 5ul of Reduction Buffer. Vortex to mix.
+5. Incubate at 70C for 10min then cool to RT.
+6. Add 5ul of Alkylation Buffer. Vortex to mix.
+7. Incubate at 70C for 10min then cool to RT.
+8. Add 5ul of Reduction Buffer. Vortex to mix.
+9. Incubate at RT for a few minutes to allow the DTT to react with residual CAA.
 
 #### Trypsin digestion:
 1. Add 5ul of Trypsin Solution to the above reduced and alkylated samples.
