@@ -21,7 +21,7 @@
 *The final reaction volume (after adding Trypsin) is 50ul. Adjust the volumes of other components as necessary for other reaction volumes.*
 1. Add 20ul of Digest Buffer.
 2. Add 10ul of sample.
-3. Add 1ul of 10x SDC.
+3. Add 1ul of 10x SDC (add if the sample doesn't have SDC already).
 4. Add 5ul of Reduction Buffer. Vortex to mix.
 5. Incubate at 70C for 10min then cool to RT.
 6. Add 5ul of Alkylation Buffer. Vortex to mix.
