@@ -1,6 +1,6 @@
 ## Example Protocol for One-SPE
 
-#### Buffers:
+#### Solutions:
 * 10x SDC: 10% SDC in 100mM HEPES pH 8.5
 * Digest Buffer: 100mM HEPES pH 8.5, 1% sodium deoxycholate (SDC)
 * Reduction Bufer (10x): 100mM dithiothreitol, 100mM HEPES pH 8.5, 1% SDC
