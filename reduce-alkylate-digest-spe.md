@@ -14,7 +14,7 @@
 * Components of the sample must not inhibit the enzymatic activity Trypsin.
 * The sample may contain detergents or polymers that are uncharged or negatively charged.
 * SDC is used to denature the proteins and enhance the activity of Trypsin.
-* SDC precipitates in acidic conditions.  If using TCEP it must be neutralized before adding it to the reaction.
+* SDC precipitates in acidic conditions.  If using TCEP it the pH of this solution must be neutralized before adding it to the reaction.
 * Calcium causes SDC to precipitate.
 
 #### Reduce and alkylate:
