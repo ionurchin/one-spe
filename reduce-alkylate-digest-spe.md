@@ -6,7 +6,7 @@
 * Reduction Bufer (10x): 100mM dithiothreitol, 100mM HEPES pH 8.5, 1% SDC
 * Alkylation Buffer (10x): 200mM 2-chloroacetamide (CAA), 100mM HEPES pH 8.5, 1% SDC
 * Trypsin Solution (10x): 125ng/ul Methylated Trypsin, 100mM HEPES, pH 8.5, 1% SDC
-* SPE Load Buffer: 90% Isopropanol, 1.0% Formic Acid
+* SPE Load Buffer: 90% Acetonitrile (Isopropanol if usint TCEP), 1.0% Formic Acid
 * SPE Wash Buffer: 10% Acetonitrile, 0.1% Formic Acid
 * SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide (IMPORTANT!  Must be made up fresh)
 
