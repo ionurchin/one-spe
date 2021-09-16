@@ -36,7 +36,7 @@
 
 #### Solid phase extraction - peptide cleanup:
 1. Add 500ul SPE Load Buffer to the digested sample. (10x the volume of the digest volume)
-2. Mix by pipetting up and down and transfer to a p1000 pipet tip packed with 1 or more 2mm diameter discs of CDS Empore SCX.
+2. Mix by pipetting up and down and transfer to a p1000 pipet tip packed with 1 or more 2mm diameter discs of CDS Empore SCX or use Waters MCX products.
 3. Spin the liquid through the tip at an adequate g-force until dry.  This takes a few minutes.
 4. Wash with 500ul of SPE Load Buffer.  Spin until dry.
 5. Wash with 500ul of SPE Wash Buffer.  Spin until dry.
