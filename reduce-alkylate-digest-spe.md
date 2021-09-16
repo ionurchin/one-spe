@@ -31,7 +31,7 @@
 
 #### Trypsin digestion:
 1. Add 5ul of Trypsin Solution to the above reduced and alkylated samples.
-2. Incubate at RT O/N (14 - 18hrs) with gentle vortex mixing.
+2. Incubate at RT O/N (14 - 18hrs) with gentle vortex mixing (alternatively, 4hrs at 37°C works well also).
 3. Freeze at -70C if not processing immediatly.
 
 #### Solid phase extraction - peptide cleanup:
