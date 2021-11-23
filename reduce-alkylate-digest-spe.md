@@ -1,4 +1,4 @@
-## Example Protocol for One-SPE
+## Example Protocol for Trypsin Digestion Followed by One-SPE Sample Cleanup
 
 #### Solutions:
 * 10x SDC: 10% SDC in 100mM HEPES pH 8.5
