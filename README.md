@@ -1,5 +1,5 @@
 # one-spe
-**One Solid-Phase Extraction for ~~-all-~~ most Proteomics Workflows**
+**One Solid-Phase Extraction for Proteomics Workflows**
 
 Ever since I encountered my first samples where a polymer or detergent, unbeknown to me, was present and had to suffer through column and instrument cleanup I've wanted a simple, unified and robust method of sample cleanup following every Trypsin digestion so that my system would never have to suffer contamination again.  
 
