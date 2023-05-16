@@ -6,8 +6,9 @@
 * Reduction Bufer (10x): 100mM dithiothreitol, 100mM HEPES pH 8.5, 1% SDC
 * Alkylation Buffer (10x): 200mM 2-chloroacetamide (CAA), 100mM HEPES pH 8.5, 1% SDC
 * Trypsin Solution (10x): 125ng/ul Methylated Trypsin, 100mM HEPES, pH 8.5, 1% SDC
-* SPE Load Buffer: 90% Acetonitrile (Isopropanol if using TCEP), 1.0% Formic Acid
-* SPE Wash Buffer: 10% Acetonitrile, 0.1% Formic Acid
+* SPE1 Solvent: 90% Acetonitrile (Isopropanol if using TCEP), 1.0% Formic Acid
+* SPE2 Solvent: 99% Ethyl Acetate, 1% Formic Acid
+* SPE3 Solvent: 10% Acetonitrile, 0.1% Formic Acid
 * SPE Elution Buffer: 80% Acetonitrile, 5% Ammonium Hydroxide (IMPORTANT!  Must be made up fresh)
 
 #### Sample considerations:
@@ -35,11 +36,11 @@
 3. Freeze at -70C if not processing immediatly.
 
 #### Solid phase extraction - peptide cleanup:
-1. Add 500ul SPE Load Buffer to the digested sample. (10x the volume of the digest volume)
-2. Mix by pipetting up and down and transfer to a p1000 pipet tip packed with 1 or more 2mm diameter discs of CDS Empore SCX or use Waters MCX products.
+1. Add 500ul SPE1 Solvent to the digested sample. (10x the volume of the digest volume.
+2. Mix by pipetting up and down and transfer to a p1000 pipet tip packed with 3 - 2mm diameter discs of CDS Empore Cation or Empore SDB-RPS.
 3. Spin the liquid through the tip at an adequate g-force until dry.  This takes a few minutes.
-4. Wash with 500ul of SPE Load Buffer.  Spin until dry.
-5. Wash with 500ul of SPE Wash Buffer.  Spin until dry.
-6. Elute bound peptides with 150ul of SPE Elution Buffer directly into injection vials or other tubes.
+4. Wash with 500ul of SPE2 Solvent.  Spin until dry.
+5. Wash with 500ul of SPE3 Solvent.  Spin until dry.
+6. Elute bound peptides with 150ul of SPE Elution Buffer directly into injection vials or other tubes low binding tubes.
 7. Evaporate to dryness in a centrifugal vacuum concentrator such as a speed-vac.
 8. Dissolve peptides in injection solvent appropriate for your LC/MS system. 
